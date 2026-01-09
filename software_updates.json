@@ -294,40 +294,40 @@
     }
   ],
   "parts": {
-	  "assets": {
-		  "title": "Assets",
-		  "baseDirectories": ["assets"],
-		  "versions": [
+    "assets": {
+      "title": "Assets",
+      "baseDirectories": ["assets"],
+      "versions": [
         {"build": 1, "previous": null, "link": "https://github.com/Oqtavios/coronatime_files/releases/download/assets_build1/assets.zip", "hash": "cec3157043d2386d0a78bb45a1f39baa5811ecc2649048ce5ba88eb4cef75577"},
         {"build": 2, "previous": null, "link": "https://github.com/Oqtavios/coronatime_files/releases/download/assets_build2/assets.zip", "hash": "c2a30ca5aade871f95af46eae7e41632c0c2f51c5cab702a6cc5a52460d48f7d"},
         {"build": 3, "previous": null, "link": "https://github.com/Oqtavios/coronatime_files/releases/download/assets_build3/assets.zip", "hash": "b0e9265612b9a097b2c3fe9bb9227a9b58fea9c914dd3d2033a54b5088a4b509", "updateKey": "coronaTIME2026"}
-		  ]
-	  },
-	  "libraries": {
-		  "title": "Libraries",
-		  "baseDirectories": ["libraries"],
-		  "versions": [
+      ]
+    },
+    "libraries": {
+      "title": "Libraries",
+      "baseDirectories": ["libraries"],
+      "versions": [
         {"build": 1, "previous": null, "link": "https://github.com/Oqtavios/coronatime_files/releases/download/libraries_build1/libraries.zip", "hash": "6e4a43fda1d48d3f5272e719a0c431d0550da051691754d0b8a4f3eca25430c4"},
         {"build": 2, "previous": null, "link": "https://github.com/Oqtavios/coronatime_files/releases/download/libraries_build2/libraries.zip", "hash": "78d5293aee610db3c293075389cfc3f5ef90654cc1cd9149e61bcf86ae389edb", "macOS": {"link": "", "hash": ""}},
         {"build": 3, "previous": null, "link": "https://github.com/Oqtavios/coronatime_files/releases/download/libraries_build3/libraries.zip", "hash": "56667bcb33511068cc78dc0b96af3874fa8f8334c396643268bacc5ce939a37b", "macOS": {"link": "", "hash": ""}},
         {"build": 4, "previous": null, "link": "https://github.com/Oqtavios/coronatime_files/releases/download/libraries_build4/libraries.zip", "hash": "459bf006c87da03bf785713cddb7341a3d117591d0783e0aa9aa223254670a0e", "updateKey": "coronaTIME2026"}
-		  ]
-	  },
-	  "versions": {
-		  "title": "Versions",
-		  "baseDirectories": ["versions"],
-		  "versions": [
+      ]
+    },
+    "versions": {
+      "title": "Versions",
+      "baseDirectories": ["versions"],
+      "versions": [
         {"build": 1, "previous": null, "link": "https://github.com/Oqtavios/coronatime_files/releases/download/versions_build1/versions.zip", "hash": "cb3c3ccb891bd0d0fef6b818af133034807e8f33d8f663b8c8fd5eb06497a062"},
         {"build": 2, "previous": null, "link": "https://github.com/Oqtavios/coronatime_files/releases/download/versions_build2/versions.zip", "hash": "16a3958ce183efaf4e82682e7147424d292d404ca1c97a96077a806e3358706a"},
         {"build": 3, "previous": null, "link": "https://github.com/Oqtavios/coronatime_files/releases/download/versions_build3/versions.zip", "hash": "bd4b82a4b65b8669a36f0d77c150c0274e842c0f81b1a6e02288c089946dfcc6"},
         {"build": 4, "previous": 3, "link": "https://github.com/Oqtavios/coronatime_files/releases/download/versions_build4/versions.zip", "hash": "48163533e207f8ac96bc42db2f949055edeb97beaa326dafaa5d691c420361e5"},
         {"build": 5, "previous": null, "link": "https://github.com/Oqtavios/coronatime_files/releases/download/versions_build5/versions.zip", "hash": "7228dd84cd6954e75ddf3496048490bdb9cdb094f88c1f7086c97ea8649d83b4", "updateKey": "coronaTIME2026"}
-		  ]
-	  },
-	  "mods": {
-		  "title": "Mods",
-		  "baseDirectories": ["mods"],
-		  "versions": [
+      ]
+    },
+    "mods": {
+      "title": "Mods",
+      "baseDirectories": ["mods"],
+      "versions": [
         {"build": 1, "previous": null, "link": "https://github.com/Oqtavios/coronatime_files/releases/download/mods_build1/mods.zip", "hash": "2b9a40cac2701b41d7c778b3cdb87e6cc449392edc8a5eac4462862c65fb342a"},
         {"build": 3, "previous": 1, "link": "https://github.com/Oqtavios/coronatime_files/releases/download/mods_build3/mods.zip", "hash": "18e90a9c5f11717f18855f09f0b240e08d86abcfc433403d6c712beff9821ca4"},
         {"build": 4, "previous": 3, "link": "https://github.com/Oqtavios/coronatime_files/releases/download/mods_build4/mods.zip", "hash": "f362f229c3cc27e6d634cb9d95d22e5817b7772a7e004e7b541c33f2f8760398"},
@@ -340,24 +340,24 @@
         {"build": 11, "previous": 10, "link": "https://github.com/Oqtavios/coronatime_files/releases/download/mods_build11/mods.zip", "hash": "23d4bae602c74ea37400b62a60390ff158d198e945f1ffd49d5cdd5efad3fc19"},
         {"build": 12, "previous": 11, "link": "https://github.com/Oqtavios/coronatime_files/releases/download/mods_build12/mods.zip", "hash": "f9084db5888d620fc163dba54412b78e46d26c130c3a47a84cc9fc4f57e326a5"},
         {"build": 13, "previous": null, "link": "https://github.com/Oqtavios/coronatime_files/releases/download/mods_build13/mods.zip", "hash": "e6253b3a1eadbeecb6182f5f07f411247a223fe815e9fe37e4ecb43fc11e7fa0"}
-		  ]
-	  },
-	  "branding": {
-		  "title": "Branding",
-		  "baseDirectories": null,
-		  "versions": [
+      ]
+    },
+    "branding": {
+      "title": "Branding",
+      "baseDirectories": null,
+      "versions": [
         {"build": 1, "previous": null, "link": "https://github.com/Oqtavios/coronatime_files/releases/download/branding_build1/branding.zip", "hash": "6a98aef373974d5eede4a7582aafa98ec9869ee068b4e74b204cd20bdc957c75"},
         {"build": 2, "previous": 1, "link": "https://github.com/Oqtavios/coronatime_files/releases/download/branding_build2/branding.zip", "hash": "b605b492d86e00201dc1824b576d95bed8b054002f611d9b1da324d4a2cf9e8e"},
         {"build": 3, "previous": 2, "link": "https://github.com/Oqtavios/coronatime_files/releases/download/branding_build3/branding.zip", "hash": "bf7551cd935e57b139f5ffbdd0928aeeddb1e56bc2d6c18b186a9c00ca86efad"},
         {"build": 4, "previous": 3, "link": "https://github.com/Oqtavios/coronatime_files/releases/download/branding_build4/branding.zip", "hash": "aef5b98f3ad4cc175113380d0a1edb59a01a79b219aa2fb7f75833e1b6c61300"},
         {"build": 5, "previous": 4, "link": "https://github.com/Oqtavios/coronatime_files/releases/download/branding_build5/branding.zip", "hash": "d989f562bc83861b7e8d1de073927e9c66087f3b67729b840381a9a91bcfd9c6"},
         {"build": 6, "previous": 5, "link": "https://github.com/Oqtavios/coronatime_files/releases/download/branding_build6/branding.zip", "hash": "fa33956ab90da6631727a787801f2bfb26795c9e057681413068e01cc10155f6"}
-		  ]
-	  },
-	  "resources": {
-		  "title": "Resources",
-		  "baseDirectories": ["config/openloader"],
-		  "versions": [
+      ]
+    },
+    "resources": {
+      "title": "Resources",
+      "baseDirectories": ["config/openloader"],
+      "versions": [
         {"build": 1, "previous": null, "link": "https://github.com/Oqtavios/coronatime_files/releases/download/resources_build1/resources.zip", "hash": "41faf7467806cf056dd0d7a856c97b46bfa60f99c037262bcddda59576651a34"},
         {"build": 3, "previous": 1, "link": "https://github.com/Oqtavios/coronatime_files/releases/download/resources_build3/resources.zip", "hash": "de8bc24ebf238504b7af790a81055efc1038dc0faffb02dad51d6bec6e1269a9"},
         {"build": 5, "previous": 3, "link": "https://github.com/Oqtavios/coronatime_files/releases/download/resources_build5/resources.zip", "hash": "c75407afb48cab2de531e0615f2c42278f05e37ccbc2f371dfdb7a38b5cffb62"},
@@ -369,20 +369,20 @@
         {"build": 11, "previous": 10, "link": "https://github.com/Oqtavios/coronatime_files/releases/download/resources_build11/resources.zip", "hash": "fb1acf6f9281627adfb3ac97365c8206eb815b0e01d8eeae3e2e92f9ec9e2c13"},
         {"build": 12, "previous": 11, "link": "https://github.com/Oqtavios/coronatime_files/releases/download/resources_build12/resources.zip", "hash": "0026b2af7ff411a83b51aa25e34fa44ea10dd193bb1fcdfafe163f9783fdad81"},
         {"build": 13, "previous": null, "link": "https://github.com/Oqtavios/coronatime_files/releases/download/resources_build13/resources.zip", "hash": "0425d42d64268deff077a47474f6ef54cd41424922db546db2ea155688d267aa"}
-		  ]
-	  },
-	  "skins": {
-		  "title": "Skins",
-		  "baseDirectories": ["cachedImages"],
-		  "versions": [
+      ]
+    },
+    "skins": {
+      "title": "Skins",
+      "baseDirectories": ["cachedImages"],
+      "versions": [
         {"build": 1, "previous": null, "link": "https://github.com/Oqtavios/coronatime_files/releases/download/skins_build1/skins.zip", "hash": "f97e24b5f3b57c4de6c75cd940df6997eb753138ec9ff9339166eeed790ab8c2"},
         {"build": 2, "previous": 1, "link": "https://github.com/Oqtavios/coronatime_files/releases/download/skins_build2/skins.zip", "hash": "2677654f717a9fd04f210d8c8f06c51d5314da1e8ed73d53c1948df5efcb48c9"}
-		  ]
-	  },
-	  "misc": {
-		  "title": "Miscellanious",
-		  "baseDirectories": null,
-		  "versions": [
+      ]
+    },
+    "misc": {
+      "title": "Miscellanious",
+      "baseDirectories": null,
+      "versions": [
         {"build": 1, "previous": null, "link": "https://github.com/Oqtavios/coronatime_files/releases/download/misc_build1/misc.zip", "hash": "643122e8360054210c5afa8741318427de36e2b95d65f13b0b1c044cb825cc30"},
         {"build": 2, "previous": 1, "link": "https://github.com/Oqtavios/coronatime_files/releases/download/misc_build2/misc.zip", "hash": "37247ec42de6ccb8c6651f0e310ad589037612adccb9b9c0e82268601651dd74"},
         {"build": 3, "previous": 2, "link": "https://github.com/Oqtavios/coronatime_files/releases/download/misc_build3/misc.zip", "hash": "f03fcbc12287c00feed5c13544157010687be6131fc48019d3142547dd9a3acb"},
@@ -391,44 +391,44 @@
         {"build": 6, "previous": 5, "link": "https://github.com/Oqtavios/coronatime_files/releases/download/misc_build6/misc.zip", "hash": "a7bf205ed8385153730b55efdbf3c08d40fda7ff6f8587818bfa1c7d81a1152c"},
         {"build": 7, "previous": 6, "link": "https://github.com/Oqtavios/coronatime_files/releases/download/misc_build7/misc.zip", "hash": "8ae5f32cf01ff87266e8b460c4d3ef2b5b891dd12320b6170039b65da047d34e"},
         {"build": 8, "previous": 7, "link": "https://github.com/Oqtavios/coronatime_files/releases/download/misc_build8/misc.zip", "hash": "dfaeed46250c94e51eed75afe2221b5cdac28cce03ce21d83dae308eed33b122"}
-		  ]
-	  },
+      ]
+    },
     "config": {
-		  "title": "Configuration",
-		  "baseDirectories": ["config"],
-		  "versions": [
+      "title": "Configuration",
+      "baseDirectories": ["config"],
+      "versions": [
         {"build": 1, "previous": null, "link": "https://github.com/Oqtavios/coronatime_files/releases/download/config_build1/config.zip", "hash": "396934a138a73c755de1f3e394d4c106a3b7fe0495cb9c200ea9660107dc5c7a"}
-		  ]
-	  },
-	  "java": {
-		  "title": "Java distrib",
-		  "baseDirectories": null,
-		  "versions": [
+      ]
+    },
+    "java": {
+      "title": "Java distrib",
+      "baseDirectories": null,
+      "versions": [
         {"build": 1, "previous": null, "link": "https://github.com/Oqtavios/coronatime_files/releases/download/java_build1/java.zip", "hash": "19730b9af0a0b9ef25fca49aec79286e21fbe2066105fca2eb0c3400cfb8a8ef"}
-		  ]
-	  },
+      ]
+    },
     "jre": {
-		  "title": "Java Runtime",
-		  "baseDirectories": ["jre"],
-		  "versions": [
+      "title": "Java Runtime",
+      "baseDirectories": ["jre"],
+      "versions": [
         {"build": 1, "previous": null, "link": "https://github.com/Oqtavios/coronatime_files/releases/download/jre_build1/jre.zip", "hash": "5351464cb5fe714698558b331588f5a430f45ca0a4ff3bd67c1464f5eaf6a9c4"}
-		  ]
-	  },
-	  "shaderpacks": {
-		  "title": "Shader packs",
-		  "baseDirectories": null,
-		  "versions": [
+      ]
+    },
+    "shaderpacks": {
+      "title": "Shader packs",
+      "baseDirectories": null,
+      "versions": [
         {"build": 1, "previous": null, "link": "https://github.com/Oqtavios/coronatime_files/releases/download/shaderpacks_build1/shaderpacks.zip", "hash": "6a932c1cd50546c11f8ecbe54a0414a18c6600326735a6f29f8fe50cda93041b"},
         {"build": 2, "previous": 1, "link": "https://github.com/Oqtavios/coronatime_files/releases/download/shaderpacks_build2/shaderpacks.zip", "hash": "9405beacfcd11c47527f0df4fea59cb40199184e446fef1155d649ad5cb86a2f"}
-	  },
-	  "nomorecreative": {
-		  "title": "No More Creative",
-		  "baseDirectories": null,
-		  "updateKey": "NMC202310NoMoreCreative",
-		  "versions": [
+    },
+    "nomorecreative": {
+      "title": "No More Creative",
+      "baseDirectories": null,
+      "updateKey": "NMC202310NoMoreCreative",
+      "versions": [
         {"build": 1, "previous": null, "link": "https://github.com/Oqtavios/coronatime_files/releases/download/nomorecreative_build1/nomorecreative.zip", "hash": "e68d2c7dc229608b464bd39e7fb0b183d8176e7187577c3a097ec7f3f7eaf3ba"},
         {"build": 2, "previous": null, "link": "https://github.com/Oqtavios/coronatime_files/releases/download/nomorecreative_build2/nomorecreative.zip", "hash": "059d15585ee5e34a38e562ca0089473b19a36a79b86a2cf0ff14ff4d565f79a9"}
-		  ]
-	  }
+      ]
+    }
   }
 }
