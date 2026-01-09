@@ -420,7 +420,7 @@
       "versions": [
         {"build": 1, "previous": null, "link": "https://github.com/Oqtavios/coronatime_files/releases/download/shaderpacks_build1/shaderpacks.zip", "hash": "6a932c1cd50546c11f8ecbe54a0414a18c6600326735a6f29f8fe50cda93041b"},
         {"build": 2, "previous": 1, "link": "https://github.com/Oqtavios/coronatime_files/releases/download/shaderpacks_build2/shaderpacks.zip", "hash": "9405beacfcd11c47527f0df4fea59cb40199184e446fef1155d649ad5cb86a2f"}
-      ],
+      ]
     },
     "nomorecreative": {
       "title": "No More Creative",
