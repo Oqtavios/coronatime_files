@@ -288,7 +288,7 @@
         "mods": 13,
         "resources": 13,
         "config": 1,
-        "jdk": 1,
+        "jre": 1,
         "nomorecreative": 2
       }
     }
