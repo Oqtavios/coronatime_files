@@ -397,7 +397,7 @@
       "title": "Configuration",
       "baseDirectories": ["config"],
       "versions": [
-        {"build": 1, "previous": null, "link": "https://github.com/Oqtavios/coronatime_files/releases/download/config_build1/config.zip", "hash": "396934a138a73c755de1f3e394d4c106a3b7fe0495cb9c200ea9660107dc5c7a"}
+        {"build": 1, "previous": null, "link": "https://github.com/Oqtavios/coronatime_files/releases/download/config_build1/config.zip", "hash": "d3166d73523b71525cb6d88b3f9a34362f840f71546d04a3f5f648f624f24799"}
       ]
     },
     "java": {
