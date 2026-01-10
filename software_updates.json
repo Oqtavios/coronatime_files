@@ -287,7 +287,7 @@
         "versions": 5,
         "mods": 13,
         "resources": 13,
-        "config": 1,
+        "config": 2,
         "jre": 1,
         "nomorecreative": 2
       }
@@ -397,7 +397,8 @@
       "title": "Configuration",
       "baseDirectories": ["config"],
       "versions": [
-        {"build": 1, "previous": null, "link": "https://github.com/Oqtavios/coronatime_files/releases/download/config_build1/config.zip", "hash": "d3166d73523b71525cb6d88b3f9a34362f840f71546d04a3f5f648f624f24799"}
+        {"build": 1, "previous": null, "link": "https://github.com/Oqtavios/coronatime_files/releases/download/config_build1/config.zip", "hash": "d3166d73523b71525cb6d88b3f9a34362f840f71546d04a3f5f648f624f24799"},
+        {"build": 2, "previous": 1, "link": "https://github.com/Oqtavios/coronatime_files/releases/download/config_build2/config.zip", "hash": "65930a2374d1cd271eb2e1cb5afbf07066b0c86230e0f200c690feb263ec4392"}
       ]
     },
     "java": {
