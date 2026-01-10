@@ -398,7 +398,7 @@
       "baseDirectories": ["config"],
       "versions": [
         {"build": 1, "previous": null, "link": "https://github.com/Oqtavios/coronatime_files/releases/download/config_build1/config.zip", "hash": "d3166d73523b71525cb6d88b3f9a34362f840f71546d04a3f5f648f624f24799"},
-        {"build": 2, "previous": 1, "link": "https://github.com/Oqtavios/coronatime_files/releases/download/config_build2/config.zip", "hash": "65930a2374d1cd271eb2e1cb5afbf07066b0c86230e0f200c690feb263ec4392"}
+        {"build": 2, "previous": 1, "link": "https://github.com/Oqtavios/coronatime_files/releases/download/config_build2/config.zip", "hash": "2d2cf8a06de3efa306bb98c04a0110dc46444d6906b7e20c32ccf1659c83155f"}
       ]
     },
     "java": {
